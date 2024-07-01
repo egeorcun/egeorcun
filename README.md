@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">💸 I am open to new opportunities <br><br>📫 How to reach me: egeorcun@gmail.com<br><br>or</p>
+<p align="center"><br>📫 How to reach me: egeorcun@gmail.com<br><br>or</p>
 
 ###
 
