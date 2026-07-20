@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="center">🕷 Your friendly neighborhood computer engineer 🕸<br><br>🕹 I am currently working as a "Game Developer" 📱</h4>
+<h4 align="center">🕷 Your friendly neighborhood computer engineer 🕸<br><br>🕹 I am currently working as a "Software Engineer.
+  You can see my works in https://egeorcun.work" 📱</h4>
 
 ###
 
